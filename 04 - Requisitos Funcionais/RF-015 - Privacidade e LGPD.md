@@ -1,11 +1,11 @@
 ---
 tags: [doalink, rf, lgpd, privacidade, dados-pessoais, essencial]
-id: RF-017
+id: RF-015
 prioridade: Essencial (conformidade) — validação jurídica recomendada
 origem: Expansão
 ---
 
-# RF-017 — Privacidade, consentimento e direitos do titular (LGPD)
+# RF-015 — Privacidade, consentimento e direitos do titular (LGPD)
 
 **Prioridade:** Essencial para conformidade (sugestão; validar com jurídico/DPO)
 
@@ -23,6 +23,6 @@ O sistema deve tratar dados pessoais com finalidade legítima, minimização, se
 - Minimizar exposição de dados pessoais a outros participantes (ex.: exibir contato apenas quando houver envolvimento/proposta confirmada).
 
 ## Critérios de aceite (sugestão)
-- **CA-017-1:** Dado titular autenticado, quando solicita acesso aos seus dados, então o sistema fornece os dados previstos pela política aplicável.
-- **CA-017-2:** Dado titular, quando solicita correção/exclusão elegível, então o sistema registra e processa a solicitação conforme fluxo definido.
-- **CA-017-3:** Dados pessoais sensíveis/contato não são expostos a usuários sem finalidade/permissão.
+- **CA-015-1:** Dado titular autenticado, quando solicita acesso aos seus dados, então o sistema fornece os dados previstos pela política aplicável.
+- **CA-015-2:** Dado titular, quando solicita correção/exclusão elegível, então o sistema registra e processa a solicitação conforme fluxo definido.
+- **CA-015-3:** Dados pessoais sensíveis/contato não são expostos a usuários sem finalidade/permissão.

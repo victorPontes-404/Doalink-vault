@@ -1,11 +1,11 @@
 ---
 tags: [doalink, rf, veículos, transportador, desejável]
-id: RF-026
+id: RF-019
 prioridade: Desejável
 origem: Expansão
 ---
 
-# RF-026 — Gestão de veículos do transportador
+# RF-019 — Gestão de veículos do transportador
 
 **Prioridade:** Desejável (sugestão)
 

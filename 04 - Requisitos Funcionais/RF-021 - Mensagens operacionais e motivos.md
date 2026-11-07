@@ -1,11 +1,11 @@
 ---
 tags: [doalink, rf, comunicação, motivos, desejável]
-id: RF-028
+id: RF-021
 prioridade: Desejável
 origem: Expansão
 ---
 
-# RF-028 — Mensagens operacionais e motivos
+# RF-021 — Mensagens operacionais e motivos
 
 **Prioridade:** Desejável (sugestão)
 
