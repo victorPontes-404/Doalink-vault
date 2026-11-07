@@ -1,11 +1,11 @@
 ---
 tags: [doalink, rf, produtividade, rascunho, desejável]
-id: RF-027
+id: RF-020
 prioridade: Desejável
 origem: Expansão
 ---
 
-# RF-027 — Duplicação e rascunho de registros
+# RF-020 — Duplicação e rascunho de registros
 
 **Prioridade:** Desejável (sugestão)
 

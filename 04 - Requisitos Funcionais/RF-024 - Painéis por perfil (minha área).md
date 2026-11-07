@@ -1,11 +1,11 @@
 ---
 tags: [doalink, rf, dashboard, painel, importante]
-id: RF-033
+id: RF-024
 prioridade: Importante
 origem: Expansão
 ---
 
-# RF-033 — Painéis por perfil ("Minha área")
+# RF-024 — Painéis por perfil ("Minha área")
 
 **Prioridade:** Importante (sugestão)
 

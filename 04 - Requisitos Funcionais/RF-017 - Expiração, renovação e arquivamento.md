@@ -1,11 +1,11 @@
 ---
 tags: [doalink, rf, expiração, ciclo-de-vida, importante]
-id: RF-021
+id: RF-017
 prioridade: Importante
 origem: Expansão
 ---
 
-# RF-021 — Expiração, renovação e arquivamento
+# RF-017 — Expiração, renovação e arquivamento
 
 **Prioridade:** Importante (sugestão)
 
@@ -22,5 +22,5 @@ O sistema deve controlar o ciclo de vida temporal de ofertas, necessidades, disp
 | Campanha | Encerrada/arquivada por usuário autorizado. |
 
 ## Critérios de aceite (sugestão)
-- **CA-021-1:** Dado registro com data/validade expirada, quando o sistema avalia elegibilidade, então o registro não participa de novos matchings ativos.
-- **CA-021-2:** Dado participante autorizado e registro elegível para renovação, quando renova com dados válidos, então o sistema atualiza a vigência conforme política.
+- **CA-017-1:** Dado registro com data/validade expirada, quando o sistema avalia elegibilidade, então o registro não participa de novos matchings ativos.
+- **CA-017-2:** Dado participante autorizado e registro elegível para renovação, quando renova com dados válidos, então o sistema atualiza a vigência conforme política.

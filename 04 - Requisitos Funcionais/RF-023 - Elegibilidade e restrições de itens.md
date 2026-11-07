@@ -1,11 +1,11 @@
 ---
 tags: [doalink, rf, compliance, itens-regulados, importante]
-id: RF-032
+id: RF-023
 prioridade: Importante (se aplicável)
 origem: Expansão
 ---
 
-# RF-032 — Elegibilidade e restrições de itens
+# RF-023 — Elegibilidade e restrições de itens
 
 **Prioridade:** Importante quando o catálogo incluir itens regulados (sugestão)
 
@@ -21,4 +21,4 @@ O sistema deve aplicar restrições para categorias de itens que exigem tratamen
 | Itens perigosos | Proibir ou tratar por fluxo especial. |
 
 ## Regra
-- Não habilitar categorias reguladas sem política explícita aprovada (PD-016). Inicialmente, pode-se limitar o catálogo a itens seguros.
+- **CA-023-1:** Dado participante autorizado, quando consulta elegibilidade de item regulado, então o sistema aplica as restrições definidas na política.

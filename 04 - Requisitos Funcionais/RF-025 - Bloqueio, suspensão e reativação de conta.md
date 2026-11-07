@@ -1,11 +1,11 @@
 ---
 tags: [doalink, rf, conta, moderação, importante]
-id: RF-034
+id: RF-025
 prioridade: Importante
 origem: Expansão
 ---
 
-# RF-034 — Bloqueio, suspensão e reativação de conta
+# RF-025 — Bloqueio, suspensão e reativação de conta
 
 **Prioridade:** Importante (sugestão)
 

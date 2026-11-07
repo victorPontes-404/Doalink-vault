@@ -1,11 +1,11 @@
 ---
 tags: [doalink, rf, termos, aceite, legal, importante]
-id: RF-024
+id: RF-018
 prioridade: Importante
 origem: Expansão
 ---
 
-# RF-024 — Termos de uso, políticas e aceite
+# RF-018 — Termos de uso, políticas e aceite
 
 **Prioridade:** Importante (sugestão; validar com jurídico)
 
@@ -19,5 +19,5 @@ O sistema deve apresentar Termos de Uso e Política de Privacidade, coletando ci
 - Disponibilizar acesso permanente aos documentos.
 
 ## Critérios de aceite (sugestão)
-- **CA-024-1:** Dado cadastro com aceite obrigatório, quando o usuário não aceita os termos exigidos, então o sistema não conclui o cadastro.
-- **CA-024-2:** Dado aceite registrado, quando consultado para auditoria legal/operacional autorizada, então o sistema apresenta evidência da versão e momento do aceite.
+- **CA-018-1:** Dado cadastro com aceite obrigatório, quando o usuário não aceita os termos exigidos, então o sistema não conclui o cadastro.
+- **CA-018-2:** Dado aceite registrado, quando consultado para auditoria legal/operacional autorizada, então o sistema apresenta evidência da versão e momento do aceite.

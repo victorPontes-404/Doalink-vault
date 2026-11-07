@@ -1,11 +1,11 @@
 ---
 tags: [doalink, rf, cancelamento, estados, importante]
-id: RF-035
+id: RF-026
 prioridade: Importante
 origem: Expansão
 ---
 
-# RF-035 — Cancelamento e desistência com impacto controlado
+# RF-026 — Cancelamento e desistência com impacto controlado
 
 **Prioridade:** Importante (sugestão)
 

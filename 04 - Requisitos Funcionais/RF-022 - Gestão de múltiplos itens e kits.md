@@ -1,11 +1,11 @@
 ---
 tags: [doalink, rf, itens, kits, importante]
-id: RF-031
+id: RF-022
 prioridade: Importante
 origem: Expansão (detalha RF-004/RF-006)
 ---
 
-# RF-031 — Gestão de múltiplos itens e kits
+# RF-022 — Gestão de múltiplos itens e kits
 
 **Prioridade:** Importante (sugestão)
 
